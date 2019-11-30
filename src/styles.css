@@ -1,0 +1,22 @@
+/* Add application styles & imports to this file! */
+
+.full-width, .button-container, .form-details-list {
+  max-width: 300px;
+  margin: 20px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  text-align: center;
+  font-size: 1.5em;
+  margin-top: 0;
+}
+
+ul {
+  padding: 0;
+}
+
+.text-bold {
+  font-weight: bold;
+}
